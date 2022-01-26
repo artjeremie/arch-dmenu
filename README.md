@@ -1,4 +1,4 @@
-# My dwm build for Voidlinux
+# My dwm build for ArchLinux
 ---
 
 [dmenu](https://tools.suckless.org/dmenu/)
